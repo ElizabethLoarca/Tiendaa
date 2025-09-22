@@ -1,0 +1,25 @@
+.producto {
+  border: 1px solid #ccc;
+  padding: 13px;
+  border-radius: 13px;
+  text-align: center;
+  position: relative;
+}
+
+.producto img {
+  width: 100px;
+  height: auto;
+}
+
+.precio {
+  background: purple;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 5px;
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  font-size: 14px;
+}
+
+
